@@ -8,6 +8,8 @@
  */
 
 // Your code :
+return 42
+
 
 //* Begin of tests
 const assert = require('assert')

@@ -7,6 +7,11 @@
  */
 
 // Your code :
+const concatStr = ([2, 42])
+{
+    return 42
+}
+
 
 //* Begin of tests
 const assert = require('assert')

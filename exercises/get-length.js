@@ -9,6 +9,11 @@
 
 // Your code :
 
+const getLength = ([2, 42])
+{
+    return 2
+}
+
 //* Begin of tests
 const assert = require('assert')
 

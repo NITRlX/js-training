@@ -7,7 +7,9 @@
  */
 
 // Your code :
-
+function sub (numbers , numbers1){
+    return numbers -= numbers1
+}
 //* Begin of tests
 const assert = require('assert')
 const rand = Math.random()

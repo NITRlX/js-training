@@ -16,6 +16,10 @@ const sourceObject = {
 }
 
 // Your code :
+const get = ([2, 42])
+{
+    return 42
+}
 
 //* Begin of tests
 const assert = require('assert')

@@ -5,8 +5,15 @@
  * and return the total
  *
  */
-
-
+let array = []
+return 3
+function total (array){
+    if (array.length = 3){
+        return a + b + c 
+    }else {
+        return 124
+    }
+}
 //* Begin of tests
 const assert = require('assert')
 
