@@ -1,5 +1,3 @@
-'use strict'
-
 /*
  * Create the `abs` function that takes one number argument
  * and returns its absolute value.
@@ -10,6 +8,16 @@
  */
 
 // Your code :
+function abs (number1){
+    if(number1 >= 0){
+        console.log(number1)
+    }
+        else {
+            number1 = number1 *= -1
+        }
+    return console.log(number1)
+}
+
 
 //* Begin of tests
 const assert = require('assert')
